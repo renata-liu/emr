@@ -1,0 +1,19 @@
+{
+  "name": "Office 1",
+  "allPatients": [
+    {
+      "birthday": 20050308,
+      "appointments": [],
+      "last": "Liu",
+      "phn": 123456789,
+      "first": "Renata"
+    },
+    {
+      "birthday": 19900812,
+      "appointments": [],
+      "last": "Chow",
+      "phn": 234567890,
+      "first": "Vivian"
+    }
+  ]
+}

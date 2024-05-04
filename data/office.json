@@ -1,0 +1,26 @@
+{
+    "name": "UBC Hospital",
+    "allPatients": [
+        {
+            "birthday": 19760312,
+            "appointments": [],
+            "last": "Anh",
+            "phn": 333333333,
+            "first": "Lin"
+        },
+        {
+            "birthday": 19650930,
+            "appointments": [],
+            "last": "Bo",
+            "phn": 123456789,
+            "first": "Hung"
+        },
+        {
+            "birthday": 20230918,
+            "appointments": [],
+            "last": "Zhang",
+            "phn": 111111111,
+            "first": "Alice"
+        }
+    ]
+}
