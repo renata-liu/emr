@@ -41,7 +41,7 @@ list of that patient's appointments***
 - As a user, I want to be able to ***save an office's entire patient list (with the patient's information) to file***
 - As a user, I want to be able to ***load an office's saved patient list from file***
 
-## Instructions For Grader
+## Typical User Flow
 - You can generate the first required action related to the user story "adding multiple Xs to a Y" by
 selecting the **button** labelled **"Add patient"** in the main menu
 - You can generate the second required action related to the user story "adding multiple Xs to a Y" by
